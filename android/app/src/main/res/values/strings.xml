@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">biorhythm-calculator</string>
+    <string name="title_activity_main">biorhythm-calculator</string>
+    <string name="package_name">org.example.biorhythmcalculator</string>
+    <string name="custom_url_scheme">org.example.biorhythmcalculator</string>
+</resources>
